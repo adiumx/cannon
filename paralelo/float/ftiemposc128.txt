@@ -1,0 +1,1500 @@
+0.17868805
+Process 000: 
+VmRSS =   9896 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =   9980 KB
+VmSize =  30912 KB
+Process 002: 
+VmRSS =   9992 KB
+VmSize =  30912 KB
+Process 003: 
+VmRSS =   9976 KB
+VmSize =  30912 KB
+Global memory usage: VmRSS =  39844 KB
+VmSize = 123648 KB
+0.18247318
+Process 000: 
+VmRSS =   9880 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =   9980 KB
+VmSize =  30912 KB
+Process 002: 
+VmRSS =   9868 KB
+VmSize =  30912 KB
+Process 003: 
+VmRSS =  10092 KB
+VmSize =  30912 KB
+Global memory usage: VmRSS =  39820 KB
+VmSize = 123648 KB
+0.18923712
+Process 000: 
+VmRSS =   9956 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =  10056 KB
+VmSize =  31040 KB
+Process 002: 
+VmRSS =   9892 KB
+VmSize =  30912 KB
+Process 003: 
+VmRSS =  10008 KB
+VmSize =  30912 KB
+Global memory usage: VmRSS =  39912 KB
+VmSize = 123776 KB
+0.17436099
+Process 000: 
+VmRSS =   9960 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =  10164 KB
+VmSize =  30912 KB
+Process 002: 
+VmRSS =   9964 KB
+VmSize =  30912 KB
+Process 003: 
+VmRSS =  10064 KB
+VmSize =  31040 KB
+Global memory usage: VmRSS =  40152 KB
+VmSize = 123776 KB
+0.23175788
+Process 000: 
+VmRSS =   9992 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =   9984 KB
+VmSize =  30912 KB
+Process 002: 
+VmRSS =   9896 KB
+VmSize =  31040 KB
+Process 003: 
+VmRSS =  10056 KB
+VmSize =  31040 KB
+Global memory usage: VmRSS =  39928 KB
+VmSize = 123904 KB
+0.09275413
+Process 000: 
+VmRSS =   9912 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =  10088 KB
+VmSize =  30912 KB
+Process 002: 
+VmRSS =   9892 KB
+VmSize =  31040 KB
+Process 003: 
+VmRSS =  10104 KB
+VmSize =  31040 KB
+Global memory usage: VmRSS =  39996 KB
+VmSize = 123904 KB
+0.24775195
+Process 000: 
+VmRSS =   9856 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =   9960 KB
+VmSize =  30912 KB
+Process 002: 
+VmRSS =   9964 KB
+VmSize =  31040 KB
+Process 003: 
+VmRSS =  10092 KB
+VmSize =  31040 KB
+Global memory usage: VmRSS =  39872 KB
+VmSize = 123904 KB
+0.17522502
+Process 000: 
+VmRSS =  10044 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =  10104 KB
+VmSize =  30912 KB
+Process 002: 
+VmRSS =   9972 KB
+VmSize =  31040 KB
+Process 003: 
+VmRSS =  10004 KB
+VmSize =  31040 KB
+Global memory usage: VmRSS =  40124 KB
+VmSize = 123904 KB
+0.24836183
+Process 000: 
+VmRSS =   9872 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =  10088 KB
+VmSize =  30912 KB
+Process 002: 
+VmRSS =   9952 KB
+VmSize =  31040 KB
+Process 003: 
+VmRSS =  10188 KB
+VmSize =  31040 KB
+Global memory usage: VmRSS =  40100 KB
+VmSize = 123904 KB
+0.25029802
+Process 000: 
+VmRSS =   9916 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =   9940 KB
+VmSize =  31040 KB
+Process 002: 
+VmRSS =   9936 KB
+VmSize =  30912 KB
+Process 003: 
+VmRSS =   9980 KB
+VmSize =  30912 KB
+Global memory usage: VmRSS =  39772 KB
+VmSize = 123776 KB
+0.53193307
+Process 000: 
+VmRSS =   9872 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =  10064 KB
+VmSize =  30912 KB
+Process 002: 
+VmRSS =   9900 KB
+VmSize =  31040 KB
+Process 003: 
+VmRSS =   9980 KB
+VmSize =  31040 KB
+Global memory usage: VmRSS =  39816 KB
+VmSize = 123904 KB
+0.29451299
+Process 000: 
+VmRSS =   9920 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =   9928 KB
+VmSize =  31040 KB
+Process 002: 
+VmRSS =   9876 KB
+VmSize =  30912 KB
+Process 003: 
+VmRSS =   9980 KB
+VmSize =  30912 KB
+Global memory usage: VmRSS =  39704 KB
+VmSize = 123776 KB
+0.08810806
+Process 000: 
+VmRSS =  10040 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =  10072 KB
+VmSize =  30912 KB
+Process 002: 
+VmRSS =  10076 KB
+VmSize =  31040 KB
+Process 003: 
+VmRSS =  10100 KB
+VmSize =  31040 KB
+Global memory usage: VmRSS =  40288 KB
+VmSize = 123904 KB
+0.12983513
+Process 000: 
+VmRSS =   9900 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =  10120 KB
+VmSize =  31040 KB
+Process 002: 
+VmRSS =   9992 KB
+VmSize =  30912 KB
+Process 003: 
+VmRSS =  10000 KB
+VmSize =  30912 KB
+Global memory usage: VmRSS =  40012 KB
+VmSize = 123776 KB
+0.15962386
+Process 000: 
+VmRSS =   9804 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =  10056 KB
+VmSize =  31040 KB
+Process 002: 
+VmRSS =   9876 KB
+VmSize =  30912 KB
+Process 003: 
+VmRSS =  10068 KB
+VmSize =  30912 KB
+Global memory usage: VmRSS =  39804 KB
+VmSize = 123776 KB
+0.48805404
+Process 000: 
+VmRSS =   9976 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =   9992 KB
+VmSize =  30912 KB
+Process 002: 
+VmRSS =   9856 KB
+VmSize =  31040 KB
+Process 003: 
+VmRSS =   9980 KB
+VmSize =  31040 KB
+Global memory usage: VmRSS =  39804 KB
+VmSize = 123904 KB
+0.14058805
+Process 000: 
+VmRSS =   9800 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =  10020 KB
+VmSize =  30912 KB
+Process 002: 
+VmRSS =   9976 KB
+VmSize =  31040 KB
+Process 003: 
+VmRSS =  10120 KB
+VmSize =  31040 KB
+Global memory usage: VmRSS =  39916 KB
+VmSize = 123904 KB
+0.19039893
+Process 000: 
+VmRSS =   9924 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =   9984 KB
+VmSize =  30912 KB
+Process 002: 
+VmRSS =   9976 KB
+VmSize =  30912 KB
+Process 003: 
+VmRSS =  10016 KB
+VmSize =  31040 KB
+Global memory usage: VmRSS =  39900 KB
+VmSize = 123776 KB
+0.19083118
+Process 000: 
+VmRSS =  10032 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =  10000 KB
+VmSize =  30912 KB
+Process 002: 
+VmRSS =  10028 KB
+VmSize =  31040 KB
+Process 003: 
+VmRSS =  10128 KB
+VmSize =  31040 KB
+Global memory usage: VmRSS =  40188 KB
+VmSize = 123904 KB
+0.40294600
+Process 000: 
+VmRSS =  10108 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =   9896 KB
+VmSize =  30912 KB
+Process 002: 
+VmRSS =  10016 KB
+VmSize =  31040 KB
+Process 003: 
+VmRSS =  10016 KB
+VmSize =  31040 KB
+Global memory usage: VmRSS =  40036 KB
+VmSize = 123904 KB
+0.23298502
+Process 000: 
+VmRSS =   9984 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =   9964 KB
+VmSize =  30912 KB
+Process 002: 
+VmRSS =   9896 KB
+VmSize =  30912 KB
+Process 003: 
+VmRSS =  10068 KB
+VmSize =  31040 KB
+Global memory usage: VmRSS =  39912 KB
+VmSize = 123776 KB
+0.10405588
+Process 000: 
+VmRSS =   9868 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =   9980 KB
+VmSize =  31040 KB
+Process 002: 
+VmRSS =  10020 KB
+VmSize =  30912 KB
+Process 003: 
+VmRSS =  10044 KB
+VmSize =  30912 KB
+Global memory usage: VmRSS =  39912 KB
+VmSize = 123776 KB
+0.14654088
+Process 000: 
+VmRSS =   9976 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =  10092 KB
+VmSize =  31040 KB
+Process 002: 
+VmRSS =   9796 KB
+VmSize =  30912 KB
+Process 003: 
+VmRSS =   9996 KB
+VmSize =  30912 KB
+Global memory usage: VmRSS =  39860 KB
+VmSize = 123776 KB
+0.15962100
+Process 000: 
+VmRSS =   9908 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =   9952 KB
+VmSize =  30912 KB
+Process 002: 
+VmRSS =   9940 KB
+VmSize =  31040 KB
+Process 003: 
+VmRSS =   9920 KB
+VmSize =  31040 KB
+Global memory usage: VmRSS =  39720 KB
+VmSize = 123904 KB
+0.12751603
+Process 000: 
+VmRSS =   9816 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =   9984 KB
+VmSize =  31040 KB
+Process 002: 
+VmRSS =  10008 KB
+VmSize =  30912 KB
+Process 003: 
+VmRSS =  10148 KB
+VmSize =  30912 KB
+Global memory usage: VmRSS =  39956 KB
+VmSize = 123776 KB
+0.22121310
+Process 000: 
+VmRSS =   9964 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =  10036 KB
+VmSize =  30912 KB
+Process 002: 
+VmRSS =   9908 KB
+VmSize =  30912 KB
+Process 003: 
+VmRSS =  10012 KB
+VmSize =  30912 KB
+Global memory usage: VmRSS =  39920 KB
+VmSize = 123648 KB
+0.29584885
+Process 000: 
+VmRSS =   9788 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =  10000 KB
+VmSize =  30912 KB
+Process 002: 
+VmRSS =  10000 KB
+VmSize =  30912 KB
+Process 003: 
+VmRSS =  10136 KB
+VmSize =  30912 KB
+Global memory usage: VmRSS =  39924 KB
+VmSize = 123648 KB
+0.18884706
+Process 000: 
+VmRSS =   9984 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =  10100 KB
+VmSize =  30912 KB
+Process 002: 
+VmRSS =   9968 KB
+VmSize =  30912 KB
+Process 003: 
+VmRSS =  10092 KB
+VmSize =  31040 KB
+Global memory usage: VmRSS =  40144 KB
+VmSize = 123776 KB
+0.41246986
+Process 000: 
+VmRSS =   9956 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =  10060 KB
+VmSize =  31040 KB
+Process 002: 
+VmRSS =   9872 KB
+VmSize =  30912 KB
+Process 003: 
+VmRSS =   9968 KB
+VmSize =  30912 KB
+Global memory usage: VmRSS =  39856 KB
+VmSize = 123776 KB
+0.11220002
+Process 000: 
+VmRSS =   9908 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =   9864 KB
+VmSize =  31040 KB
+Process 002: 
+VmRSS =   9968 KB
+VmSize =  30912 KB
+Process 003: 
+VmRSS =  10012 KB
+VmSize =  30912 KB
+Global memory usage: VmRSS =  39752 KB
+VmSize = 123776 KB
+0.16408896
+Process 000: 
+VmRSS =   9852 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =  10044 KB
+VmSize =  31040 KB
+Process 002: 
+VmRSS =   9920 KB
+VmSize =  30912 KB
+Process 003: 
+VmRSS =   9992 KB
+VmSize =  30912 KB
+Global memory usage: VmRSS =  39808 KB
+VmSize = 123776 KB
+0.35225010
+Process 000: 
+VmRSS =   9980 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =   9876 KB
+VmSize =  31040 KB
+Process 002: 
+VmRSS =   9964 KB
+VmSize =  30912 KB
+Process 003: 
+VmRSS =  10044 KB
+VmSize =  30912 KB
+Global memory usage: VmRSS =  39864 KB
+VmSize = 123776 KB
+0.19734883
+Process 000: 
+VmRSS =   9892 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =   9952 KB
+VmSize =  31040 KB
+Process 002: 
+VmRSS =   9964 KB
+VmSize =  30912 KB
+Process 003: 
+VmRSS =  10048 KB
+VmSize =  30912 KB
+Global memory usage: VmRSS =  39856 KB
+VmSize = 123776 KB
+0.16255093
+Process 000: 
+VmRSS =  10040 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =  10024 KB
+VmSize =  30912 KB
+Process 002: 
+VmRSS =   9972 KB
+VmSize =  31040 KB
+Process 003: 
+VmRSS =  10092 KB
+VmSize =  31040 KB
+Global memory usage: VmRSS =  40128 KB
+VmSize = 123904 KB
+0.27072501
+Process 000: 
+VmRSS =   9936 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =  10004 KB
+VmSize =  30912 KB
+Process 002: 
+VmRSS =   9952 KB
+VmSize =  30912 KB
+Process 003: 
+VmRSS =  10144 KB
+VmSize =  31040 KB
+Global memory usage: VmRSS =  40036 KB
+VmSize = 123776 KB
+0.31528902
+Process 000: 
+VmRSS =   9868 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =  10008 KB
+VmSize =  30912 KB
+Process 002: 
+VmRSS =   9984 KB
+VmSize =  31040 KB
+Process 003: 
+VmRSS =  10064 KB
+VmSize =  31040 KB
+Global memory usage: VmRSS =  39924 KB
+VmSize = 123904 KB
+0.26442003
+Process 000: 
+VmRSS =   9968 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =  10068 KB
+VmSize =  31040 KB
+Process 002: 
+VmRSS =   9920 KB
+VmSize =  30912 KB
+Process 003: 
+VmRSS =  10128 KB
+VmSize =  30912 KB
+Global memory usage: VmRSS =  40084 KB
+VmSize = 123776 KB
+0.16646600
+Process 000: 
+VmRSS =   9768 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =  10028 KB
+VmSize =  30912 KB
+Process 002: 
+VmRSS =   9948 KB
+VmSize =  31040 KB
+Process 003: 
+VmRSS =  10160 KB
+VmSize =  31040 KB
+Global memory usage: VmRSS =  39904 KB
+VmSize = 123904 KB
+0.14617896
+Process 000: 
+VmRSS =   9900 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =   9920 KB
+VmSize =  31040 KB
+Process 002: 
+VmRSS =   9968 KB
+VmSize =  30912 KB
+Process 003: 
+VmRSS =   9920 KB
+VmSize =  30912 KB
+Global memory usage: VmRSS =  39708 KB
+VmSize = 123776 KB
+0.17073488
+Process 000: 
+VmRSS =   9900 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =  10044 KB
+VmSize =  31040 KB
+Process 002: 
+VmRSS =   9848 KB
+VmSize =  30912 KB
+Process 003: 
+VmRSS =  10068 KB
+VmSize =  30912 KB
+Global memory usage: VmRSS =  39860 KB
+VmSize = 123776 KB
+0.36164188
+Process 000: 
+VmRSS =  10080 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =   9920 KB
+VmSize =  30912 KB
+Process 002: 
+VmRSS =  10068 KB
+VmSize =  31040 KB
+Process 003: 
+VmRSS =  10020 KB
+VmSize =  31040 KB
+Global memory usage: VmRSS =  40088 KB
+VmSize = 123904 KB
+0.23681116
+Process 000: 
+VmRSS =   9912 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =   9992 KB
+VmSize =  31040 KB
+Process 002: 
+VmRSS =   9936 KB
+VmSize =  30912 KB
+Process 003: 
+VmRSS =   9928 KB
+VmSize =  30912 KB
+Global memory usage: VmRSS =  39768 KB
+VmSize = 123776 KB
+0.27014685
+Process 000: 
+VmRSS =   9908 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =   9972 KB
+VmSize =  31040 KB
+Process 002: 
+VmRSS =   9996 KB
+VmSize =  30912 KB
+Process 003: 
+VmRSS =  10028 KB
+VmSize =  30912 KB
+Global memory usage: VmRSS =  39904 KB
+VmSize = 123776 KB
+0.40523314
+Process 000: 
+VmRSS =   9944 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =  10064 KB
+VmSize =  31040 KB
+Process 002: 
+VmRSS =   9940 KB
+VmSize =  30912 KB
+Process 003: 
+VmRSS =   9964 KB
+VmSize =  30912 KB
+Global memory usage: VmRSS =  39912 KB
+VmSize = 123776 KB
+0.20542002
+Process 000: 
+VmRSS =   9908 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =  10164 KB
+VmSize =  31040 KB
+Process 002: 
+VmRSS =   9904 KB
+VmSize =  30912 KB
+Process 003: 
+VmRSS =  10052 KB
+VmSize =  30912 KB
+Global memory usage: VmRSS =  40028 KB
+VmSize = 123776 KB
+0.13013506
+Process 000: 
+VmRSS =   9984 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =  10108 KB
+VmSize =  30912 KB
+Process 002: 
+VmRSS =   9916 KB
+VmSize =  31040 KB
+Process 003: 
+VmRSS =  10152 KB
+VmSize =  31040 KB
+Global memory usage: VmRSS =  40160 KB
+VmSize = 123904 KB
+0.34617305
+Process 000: 
+VmRSS =   9836 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =  10088 KB
+VmSize =  31040 KB
+Process 002: 
+VmRSS =   9920 KB
+VmSize =  30912 KB
+Process 003: 
+VmRSS =  10032 KB
+VmSize =  30912 KB
+Global memory usage: VmRSS =  39876 KB
+VmSize = 123776 KB
+0.40091300
+Process 000: 
+VmRSS =   9980 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =   9980 KB
+VmSize =  30912 KB
+Process 002: 
+VmRSS =   9992 KB
+VmSize =  30912 KB
+Process 003: 
+VmRSS =   9996 KB
+VmSize =  31040 KB
+Global memory usage: VmRSS =  39948 KB
+VmSize = 123776 KB
+0.38326812
+Process 000: 
+VmRSS =   9964 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =  10028 KB
+VmSize =  30912 KB
+Process 002: 
+VmRSS =   9988 KB
+VmSize =  31040 KB
+Process 003: 
+VmRSS =  10036 KB
+VmSize =  31040 KB
+Global memory usage: VmRSS =  40016 KB
+VmSize = 123904 KB
+0.19597316
+Process 000: 
+VmRSS =  10008 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =  10000 KB
+VmSize =  31040 KB
+Process 002: 
+VmRSS =   9920 KB
+VmSize =  30912 KB
+Process 003: 
+VmRSS =   9988 KB
+VmSize =  30912 KB
+Global memory usage: VmRSS =  39916 KB
+VmSize = 123776 KB
+0.15018010
+Process 000: 
+VmRSS =  10080 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =   9948 KB
+VmSize =  30912 KB
+Process 002: 
+VmRSS =  10048 KB
+VmSize =  31040 KB
+Process 003: 
+VmRSS =  10068 KB
+VmSize =  31040 KB
+Global memory usage: VmRSS =  40144 KB
+VmSize = 123904 KB
+0.50567389
+Process 000: 
+VmRSS =   9888 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =  10040 KB
+VmSize =  30912 KB
+Process 002: 
+VmRSS =   9868 KB
+VmSize =  31040 KB
+Process 003: 
+VmRSS =  10004 KB
+VmSize =  31040 KB
+Global memory usage: VmRSS =  39800 KB
+VmSize = 123904 KB
+0.09226179
+Process 000: 
+VmRSS =   9908 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =  10104 KB
+VmSize =  30912 KB
+Process 002: 
+VmRSS =   9860 KB
+VmSize =  31040 KB
+Process 003: 
+VmRSS =  10088 KB
+VmSize =  31040 KB
+Global memory usage: VmRSS =  39960 KB
+VmSize = 123904 KB
+0.36925602
+Process 000: 
+VmRSS =   9896 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =   9876 KB
+VmSize =  30912 KB
+Process 002: 
+VmRSS =  10084 KB
+VmSize =  31040 KB
+Process 003: 
+VmRSS =   9960 KB
+VmSize =  31040 KB
+Global memory usage: VmRSS =  39816 KB
+VmSize = 123904 KB
+0.12668681
+Process 000: 
+VmRSS =   9972 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =  10092 KB
+VmSize =  31040 KB
+Process 002: 
+VmRSS =   9912 KB
+VmSize =  30912 KB
+Process 003: 
+VmRSS =   9996 KB
+VmSize =  30912 KB
+Global memory usage: VmRSS =  39972 KB
+VmSize = 123776 KB
+0.25606918
+Process 000: 
+VmRSS =   9928 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =   9856 KB
+VmSize =  30912 KB
+Process 002: 
+VmRSS =   9856 KB
+VmSize =  30912 KB
+Process 003: 
+VmRSS =  10048 KB
+VmSize =  30912 KB
+Global memory usage: VmRSS =  39688 KB
+VmSize = 123648 KB
+0.32838583
+Process 000: 
+VmRSS =   9856 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =  10124 KB
+VmSize =  31040 KB
+Process 002: 
+VmRSS =   9888 KB
+VmSize =  30912 KB
+Process 003: 
+VmRSS =  10004 KB
+VmSize =  30912 KB
+Global memory usage: VmRSS =  39872 KB
+VmSize = 123776 KB
+0.31473088
+Process 000: 
+VmRSS =   9876 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =   9908 KB
+VmSize =  30912 KB
+Process 002: 
+VmRSS =   9876 KB
+VmSize =  31040 KB
+Process 003: 
+VmRSS =  10112 KB
+VmSize =  31040 KB
+Global memory usage: VmRSS =  39772 KB
+VmSize = 123904 KB
+0.25153995
+Process 000: 
+VmRSS =   9856 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =  10124 KB
+VmSize =  30912 KB
+Process 002: 
+VmRSS =   9960 KB
+VmSize =  30912 KB
+Process 003: 
+VmRSS =  10128 KB
+VmSize =  31040 KB
+Global memory usage: VmRSS =  40068 KB
+VmSize = 123776 KB
+0.36963010
+Process 000: 
+VmRSS =   9884 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =   9904 KB
+VmSize =  31040 KB
+Process 002: 
+VmRSS =   9912 KB
+VmSize =  30912 KB
+Process 003: 
+VmRSS =   9928 KB
+VmSize =  30912 KB
+Global memory usage: VmRSS =  39628 KB
+VmSize = 123776 KB
+0.39984798
+Process 000: 
+VmRSS =   9952 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =  10008 KB
+VmSize =  30912 KB
+Process 002: 
+VmRSS =   9912 KB
+VmSize =  30912 KB
+Process 003: 
+VmRSS =  10116 KB
+VmSize =  31040 KB
+Global memory usage: VmRSS =  39988 KB
+VmSize = 123776 KB
+0.15974712
+Process 000: 
+VmRSS =   9980 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =  10080 KB
+VmSize =  31040 KB
+Process 002: 
+VmRSS =   9920 KB
+VmSize =  30912 KB
+Process 003: 
+VmRSS =  10060 KB
+VmSize =  30912 KB
+Global memory usage: VmRSS =  40040 KB
+VmSize = 123776 KB
+0.20814705
+Process 000: 
+VmRSS =   9968 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =  10048 KB
+VmSize =  31040 KB
+Process 002: 
+VmRSS =   9796 KB
+VmSize =  30912 KB
+Process 003: 
+VmRSS =  10020 KB
+VmSize =  30912 KB
+Global memory usage: VmRSS =  39832 KB
+VmSize = 123776 KB
+0.26238799
+Process 000: 
+VmRSS =   9980 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =   9984 KB
+VmSize =  30912 KB
+Process 002: 
+VmRSS =   9772 KB
+VmSize =  30912 KB
+Process 003: 
+VmRSS =  10052 KB
+VmSize =  31040 KB
+Global memory usage: VmRSS =  39788 KB
+VmSize = 123776 KB
+0.28064895
+Process 000: 
+VmRSS =   9844 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =  10060 KB
+VmSize =  31040 KB
+Process 002: 
+VmRSS =  10004 KB
+VmSize =  30912 KB
+Process 003: 
+VmRSS =  10036 KB
+VmSize =  30912 KB
+Global memory usage: VmRSS =  39944 KB
+VmSize = 123776 KB
+0.28216505
+Process 000: 
+VmRSS =   9924 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =   9940 KB
+VmSize =  31040 KB
+Process 002: 
+VmRSS =   9920 KB
+VmSize =  30912 KB
+Process 003: 
+VmRSS =  10044 KB
+VmSize =  30912 KB
+Global memory usage: VmRSS =  39828 KB
+VmSize = 123776 KB
+0.27674198
+Process 000: 
+VmRSS =   9872 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =  10024 KB
+VmSize =  30912 KB
+Process 002: 
+VmRSS =  10000 KB
+VmSize =  30912 KB
+Process 003: 
+VmRSS =  10100 KB
+VmSize =  30912 KB
+Global memory usage: VmRSS =  39996 KB
+VmSize = 123648 KB
+0.15373111
+Process 000: 
+VmRSS =   9912 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =   9988 KB
+VmSize =  31040 KB
+Process 002: 
+VmRSS =   9944 KB
+VmSize =  30912 KB
+Process 003: 
+VmRSS =   9956 KB
+VmSize =  30912 KB
+Global memory usage: VmRSS =  39800 KB
+VmSize = 123776 KB
+0.10839319
+Process 000: 
+VmRSS =   9900 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =  10048 KB
+VmSize =  31040 KB
+Process 002: 
+VmRSS =   9904 KB
+VmSize =  30912 KB
+Process 003: 
+VmRSS =  10064 KB
+VmSize =  30912 KB
+Global memory usage: VmRSS =  39916 KB
+VmSize = 123776 KB
+0.23851991
+Process 000: 
+VmRSS =   9944 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =  10152 KB
+VmSize =  31040 KB
+Process 002: 
+VmRSS =   9992 KB
+VmSize =  30912 KB
+Process 003: 
+VmRSS =  10160 KB
+VmSize =  30912 KB
+Global memory usage: VmRSS =  40248 KB
+VmSize = 123776 KB
+0.42108989
+Process 000: 
+VmRSS =   9960 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =  10044 KB
+VmSize =  30912 KB
+Process 002: 
+VmRSS =   9864 KB
+VmSize =  30912 KB
+Process 003: 
+VmRSS =   9984 KB
+VmSize =  30912 KB
+Global memory usage: VmRSS =  39852 KB
+VmSize = 123648 KB
+0.15945292
+Process 000: 
+VmRSS =   9900 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =  10128 KB
+VmSize =  31040 KB
+Process 002: 
+VmRSS =   9920 KB
+VmSize =  30912 KB
+Process 003: 
+VmRSS =  10032 KB
+VmSize =  30912 KB
+Global memory usage: VmRSS =  39980 KB
+VmSize = 123776 KB
+0.26923919
+Process 000: 
+VmRSS =   9984 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =  10084 KB
+VmSize =  30912 KB
+Process 002: 
+VmRSS =   9936 KB
+VmSize =  31040 KB
+Process 003: 
+VmRSS =  10096 KB
+VmSize =  31040 KB
+Global memory usage: VmRSS =  40100 KB
+VmSize = 123904 KB
+0.08998394
+Process 000: 
+VmRSS =   9932 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =   9952 KB
+VmSize =  30912 KB
+Process 002: 
+VmRSS =   9876 KB
+VmSize =  31040 KB
+Process 003: 
+VmRSS =   9960 KB
+VmSize =  31040 KB
+Global memory usage: VmRSS =  39720 KB
+VmSize = 123904 KB
+0.58909202
+Process 000: 
+VmRSS =   9876 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =   9992 KB
+VmSize =  31040 KB
+Process 002: 
+VmRSS =   9908 KB
+VmSize =  30912 KB
+Process 003: 
+VmRSS =   9996 KB
+VmSize =  30912 KB
+Global memory usage: VmRSS =  39772 KB
+VmSize = 123776 KB
+0.11233187
+Process 000: 
+VmRSS =   9904 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =  10008 KB
+VmSize =  30912 KB
+Process 002: 
+VmRSS =   9964 KB
+VmSize =  31040 KB
+Process 003: 
+VmRSS =  10148 KB
+VmSize =  31040 KB
+Global memory usage: VmRSS =  40024 KB
+VmSize = 123904 KB
+0.14093709
+Process 000: 
+VmRSS =   9984 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =   9960 KB
+VmSize =  31040 KB
+Process 002: 
+VmRSS =   9936 KB
+VmSize =  31040 KB
+Process 003: 
+VmRSS =  10092 KB
+VmSize =  30912 KB
+Global memory usage: VmRSS =  39972 KB
+VmSize = 123904 KB
+0.17072010
+Process 000: 
+VmRSS =  10004 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =  10148 KB
+VmSize =  30912 KB
+Process 002: 
+VmRSS =  10008 KB
+VmSize =  30912 KB
+Process 003: 
+VmRSS =  10116 KB
+VmSize =  31040 KB
+Global memory usage: VmRSS =  40276 KB
+VmSize = 123776 KB
+0.34807301
+Process 000: 
+VmRSS =   9920 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =  10036 KB
+VmSize =  30912 KB
+Process 002: 
+VmRSS =   9912 KB
+VmSize =  30912 KB
+Process 003: 
+VmRSS =  10024 KB
+VmSize =  31040 KB
+Global memory usage: VmRSS =  39892 KB
+VmSize = 123776 KB
+0.14541698
+Process 000: 
+VmRSS =  10056 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =   9920 KB
+VmSize =  31040 KB
+Process 002: 
+VmRSS =   9856 KB
+VmSize =  30912 KB
+Process 003: 
+VmRSS =   9936 KB
+VmSize =  30912 KB
+Global memory usage: VmRSS =  39768 KB
+VmSize = 123776 KB
+0.34137106
+Process 000: 
+VmRSS =   9840 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =  10012 KB
+VmSize =  30912 KB
+Process 002: 
+VmRSS =   9920 KB
+VmSize =  30912 KB
+Process 003: 
+VmRSS =  10068 KB
+VmSize =  30912 KB
+Global memory usage: VmRSS =  39840 KB
+VmSize = 123648 KB
+0.16002083
+Process 000: 
+VmRSS =   9908 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =   9968 KB
+VmSize =  30912 KB
+Process 002: 
+VmRSS =   9920 KB
+VmSize =  30912 KB
+Process 003: 
+VmRSS =  10052 KB
+VmSize =  30912 KB
+Global memory usage: VmRSS =  39848 KB
+VmSize = 123648 KB
+0.20426607
+Process 000: 
+VmRSS =   9924 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =   9896 KB
+VmSize =  30912 KB
+Process 002: 
+VmRSS =   9972 KB
+VmSize =  31040 KB
+Process 003: 
+VmRSS =   9992 KB
+VmSize =  31040 KB
+Global memory usage: VmRSS =  39784 KB
+VmSize = 123904 KB
+0.41044712
+Process 000: 
+VmRSS =   9976 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =  10004 KB
+VmSize =  30912 KB
+Process 002: 
+VmRSS =  10008 KB
+VmSize =  31040 KB
+Process 003: 
+VmRSS =  10096 KB
+VmSize =  31040 KB
+Global memory usage: VmRSS =  40084 KB
+VmSize = 123904 KB
+0.21227717
+Process 000: 
+VmRSS =  10052 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =  10172 KB
+VmSize =  30912 KB
+Process 002: 
+VmRSS =  10012 KB
+VmSize =  31040 KB
+Process 003: 
+VmRSS =  10072 KB
+VmSize =  31040 KB
+Global memory usage: VmRSS =  40308 KB
+VmSize = 123904 KB
+0.16498184
+Process 000: 
+VmRSS =   9952 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =   9988 KB
+VmSize =  30912 KB
+Process 002: 
+VmRSS =  10004 KB
+VmSize =  31040 KB
+Process 003: 
+VmRSS =  10072 KB
+VmSize =  31040 KB
+Global memory usage: VmRSS =  40016 KB
+VmSize = 123904 KB
+0.15213299
+Process 000: 
+VmRSS =   9876 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =  10064 KB
+VmSize =  30912 KB
+Process 002: 
+VmRSS =  10060 KB
+VmSize =  31040 KB
+Process 003: 
+VmRSS =  10068 KB
+VmSize =  31040 KB
+Global memory usage: VmRSS =  40068 KB
+VmSize = 123904 KB
+0.16077709
+Process 000: 
+VmRSS =  10036 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =  10020 KB
+VmSize =  30912 KB
+Process 002: 
+VmRSS =   9960 KB
+VmSize =  31040 KB
+Process 003: 
+VmRSS =  10072 KB
+VmSize =  31040 KB
+Global memory usage: VmRSS =  40088 KB
+VmSize = 123904 KB
+0.15833497
+Process 000: 
+VmRSS =   9964 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =  10160 KB
+VmSize =  31040 KB
+Process 002: 
+VmRSS =   9880 KB
+VmSize =  30912 KB
+Process 003: 
+VmRSS =  10056 KB
+VmSize =  30912 KB
+Global memory usage: VmRSS =  40060 KB
+VmSize = 123776 KB
+0.19805288
+Process 000: 
+VmRSS =   9984 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =  10156 KB
+VmSize =  31040 KB
+Process 002: 
+VmRSS =   9784 KB
+VmSize =  30912 KB
+Process 003: 
+VmRSS =   9968 KB
+VmSize =  30912 KB
+Global memory usage: VmRSS =  39892 KB
+VmSize = 123776 KB
+0.17019105
+Process 000: 
+VmRSS =   9884 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =   9912 KB
+VmSize =  30912 KB
+Process 002: 
+VmRSS =   9908 KB
+VmSize =  30912 KB
+Process 003: 
+VmRSS =  10088 KB
+VmSize =  30912 KB
+Global memory usage: VmRSS =  39792 KB
+VmSize = 123648 KB
+0.12248993
+Process 000: 
+VmRSS =   9948 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =   9952 KB
+VmSize =  30912 KB
+Process 002: 
+VmRSS =  10008 KB
+VmSize =  31040 KB
+Process 003: 
+VmRSS =  10044 KB
+VmSize =  31040 KB
+Global memory usage: VmRSS =  39952 KB
+VmSize = 123904 KB
+0.25219512
+Process 000: 
+VmRSS =   9944 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =   9972 KB
+VmSize =  30912 KB
+Process 002: 
+VmRSS =   9844 KB
+VmSize =  31040 KB
+Process 003: 
+VmRSS =  10024 KB
+VmSize =  31040 KB
+Global memory usage: VmRSS =  39784 KB
+VmSize = 123904 KB
+0.17224097
+Process 000: 
+VmRSS =   9884 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =   9836 KB
+VmSize =  30912 KB
+Process 002: 
+VmRSS =   9988 KB
+VmSize =  31040 KB
+Process 003: 
+VmRSS =  10028 KB
+VmSize =  31040 KB
+Global memory usage: VmRSS =  39736 KB
+VmSize = 123904 KB
+0.24194598
+Process 000: 
+VmRSS =   9956 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =  10000 KB
+VmSize =  30912 KB
+Process 002: 
+VmRSS =  10044 KB
+VmSize =  31040 KB
+Process 003: 
+VmRSS =  10088 KB
+VmSize =  31040 KB
+Global memory usage: VmRSS =  40088 KB
+VmSize = 123904 KB
+0.13078308
+Process 000: 
+VmRSS =   9892 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =  10068 KB
+VmSize =  30912 KB
+Process 002: 
+VmRSS =   9996 KB
+VmSize =  31040 KB
+Process 003: 
+VmRSS =  10060 KB
+VmSize =  31040 KB
+Global memory usage: VmRSS =  40016 KB
+VmSize = 123904 KB
+0.42788982
+Process 000: 
+VmRSS =   9980 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =   9972 KB
+VmSize =  30912 KB
+Process 002: 
+VmRSS =  10004 KB
+VmSize =  31040 KB
+Process 003: 
+VmRSS =   9980 KB
+VmSize =  31040 KB
+Global memory usage: VmRSS =  39936 KB
+VmSize = 123904 KB
+0.28976703
+Process 000: 
+VmRSS =   9900 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =  10016 KB
+VmSize =  31040 KB
+Process 002: 
+VmRSS =   9996 KB
+VmSize =  30912 KB
+Process 003: 
+VmRSS =   9884 KB
+VmSize =  30912 KB
+Global memory usage: VmRSS =  39796 KB
+VmSize = 123776 KB
+0.19538808
+Process 000: 
+VmRSS =   9948 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =   9956 KB
+VmSize =  30912 KB
+Process 002: 
+VmRSS =   9936 KB
+VmSize =  30912 KB
+Process 003: 
+VmRSS =   9988 KB
+VmSize =  31040 KB
+Global memory usage: VmRSS =  39828 KB
+VmSize = 123776 KB
+0.11223197
+Process 000: 
+VmRSS =   9880 KB
+VmSize =  30912 KB
+Process 001: 
+VmRSS =  10012 KB
+VmSize =  31040 KB
+Process 002: 
+VmRSS =   9940 KB
+VmSize =  30912 KB
+Process 003: 
+VmRSS =  10076 KB
+VmSize =  30912 KB
+Global memory usage: VmRSS =  39908 KB
+VmSize = 123776 KB

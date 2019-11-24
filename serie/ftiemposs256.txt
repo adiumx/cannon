@@ -1,0 +1,200 @@
+0.63085794
+ Current memory usage: VmRSS =  11792 KB, VmSize =  17132 KB
+0.43476892
+ Current memory usage: VmRSS =  11828 KB, VmSize =  17132 KB
+0.32222104
+ Current memory usage: VmRSS =  11936 KB, VmSize =  17132 KB
+0.22141695
+ Current memory usage: VmRSS =  11764 KB, VmSize =  17132 KB
+0.40271616
+ Current memory usage: VmRSS =  11780 KB, VmSize =  17132 KB
+0.47501397
+ Current memory usage: VmRSS =  11648 KB, VmSize =  17132 KB
+0.34741497
+ Current memory usage: VmRSS =  11880 KB, VmSize =  17132 KB
+0.38135505
+ Current memory usage: VmRSS =  11820 KB, VmSize =  17132 KB
+0.41525483
+ Current memory usage: VmRSS =  11800 KB, VmSize =  17132 KB
+0.20676112
+ Current memory usage: VmRSS =  11792 KB, VmSize =  17132 KB
+0.20375085
+ Current memory usage: VmRSS =  11800 KB, VmSize =  17132 KB
+0.17336893
+ Current memory usage: VmRSS =  11728 KB, VmSize =  17132 KB
+0.44617987
+ Current memory usage: VmRSS =  11916 KB, VmSize =  17132 KB
+0.28484702
+ Current memory usage: VmRSS =  11916 KB, VmSize =  17132 KB
+0.19217610
+ Current memory usage: VmRSS =  12036 KB, VmSize =  17132 KB
+0.22732091
+ Current memory usage: VmRSS =  11728 KB, VmSize =  17132 KB
+0.30811310
+ Current memory usage: VmRSS =  11828 KB, VmSize =  17132 KB
+0.20009494
+ Current memory usage: VmRSS =  11976 KB, VmSize =  17132 KB
+0.27786899
+ Current memory usage: VmRSS =  11720 KB, VmSize =  17132 KB
+0.41336513
+ Current memory usage: VmRSS =  11828 KB, VmSize =  17132 KB
+0.18564200
+ Current memory usage: VmRSS =  11996 KB, VmSize =  17132 KB
+0.31368995
+ Current memory usage: VmRSS =  11976 KB, VmSize =  17132 KB
+0.20867085
+ Current memory usage: VmRSS =  11852 KB, VmSize =  17132 KB
+0.18510079
+ Current memory usage: VmRSS =  11712 KB, VmSize =  17132 KB
+0.24237394
+ Current memory usage: VmRSS =  11816 KB, VmSize =  17132 KB
+0.23437309
+ Current memory usage: VmRSS =  12056 KB, VmSize =  17132 KB
+0.32500005
+ Current memory usage: VmRSS =  11976 KB, VmSize =  17132 KB
+0.22846913
+ Current memory usage: VmRSS =  11768 KB, VmSize =  17132 KB
+0.38159394
+ Current memory usage: VmRSS =  11936 KB, VmSize =  17132 KB
+0.30670500
+ Current memory usage: VmRSS =  11700 KB, VmSize =  17132 KB
+0.30374312
+ Current memory usage: VmRSS =  11816 KB, VmSize =  17132 KB
+0.27521801
+ Current memory usage: VmRSS =  11648 KB, VmSize =  17132 KB
+0.30397797
+ Current memory usage: VmRSS =  11648 KB, VmSize =  17132 KB
+0.24246407
+ Current memory usage: VmRSS =  11688 KB, VmSize =  17132 KB
+0.43037701
+ Current memory usage: VmRSS =  11712 KB, VmSize =  17132 KB
+0.26123118
+ Current memory usage: VmRSS =  11792 KB, VmSize =  17132 KB
+0.41987300
+ Current memory usage: VmRSS =  11720 KB, VmSize =  17132 KB
+0.32373691
+ Current memory usage: VmRSS =  11816 KB, VmSize =  17132 KB
+0.27662706
+ Current memory usage: VmRSS =  11792 KB, VmSize =  17132 KB
+0.18795586
+ Current memory usage: VmRSS =  11752 KB, VmSize =  17132 KB
+0.19306517
+ Current memory usage: VmRSS =  11824 KB, VmSize =  17132 KB
+0.16785502
+ Current memory usage: VmRSS =  12000 KB, VmSize =  17132 KB
+0.33390903
+ Current memory usage: VmRSS =  11980 KB, VmSize =  17132 KB
+0.19215798
+ Current memory usage: VmRSS =  11828 KB, VmSize =  17132 KB
+0.27597594
+ Current memory usage: VmRSS =  11712 KB, VmSize =  17132 KB
+0.17099094
+ Current memory usage: VmRSS =  11792 KB, VmSize =  17132 KB
+0.19965196
+ Current memory usage: VmRSS =  11704 KB, VmSize =  17132 KB
+0.18494201
+ Current memory usage: VmRSS =  11924 KB, VmSize =  17132 KB
+0.22773910
+ Current memory usage: VmRSS =  11828 KB, VmSize =  17132 KB
+0.19101381
+ Current memory usage: VmRSS =  11976 KB, VmSize =  17132 KB
+0.17467904
+ Current memory usage: VmRSS =  11816 KB, VmSize =  17132 KB
+0.20030093
+ Current memory usage: VmRSS =  11648 KB, VmSize =  17132 KB
+0.19797421
+ Current memory usage: VmRSS =  11820 KB, VmSize =  17132 KB
+0.15792918
+ Current memory usage: VmRSS =  11820 KB, VmSize =  17132 KB
+0.20647883
+ Current memory usage: VmRSS =  11768 KB, VmSize =  17132 KB
+0.29146194
+ Current memory usage: VmRSS =  11792 KB, VmSize =  17132 KB
+0.37989521
+ Current memory usage: VmRSS =  11852 KB, VmSize =  17132 KB
+0.38805699
+ Current memory usage: VmRSS =  11648 KB, VmSize =  17132 KB
+0.26268315
+ Current memory usage: VmRSS =  11716 KB, VmSize =  17132 KB
+0.20092916
+ Current memory usage: VmRSS =  11680 KB, VmSize =  17132 KB
+0.24452686
+ Current memory usage: VmRSS =  11896 KB, VmSize =  17132 KB
+0.22882509
+ Current memory usage: VmRSS =  11724 KB, VmSize =  17132 KB
+0.28333998
+ Current memory usage: VmRSS =  11720 KB, VmSize =  17132 KB
+0.28200412
+ Current memory usage: VmRSS =  11936 KB, VmSize =  17132 KB
+0.24178314
+ Current memory usage: VmRSS =  11888 KB, VmSize =  17132 KB
+0.17563391
+ Current memory usage: VmRSS =  11764 KB, VmSize =  17132 KB
+0.20774698
+ Current memory usage: VmRSS =  11772 KB, VmSize =  17132 KB
+0.18356490
+ Current memory usage: VmRSS =  11792 KB, VmSize =  17132 KB
+0.19692802
+ Current memory usage: VmRSS =  11764 KB, VmSize =  17132 KB
+0.20704103
+ Current memory usage: VmRSS =  11912 KB, VmSize =  17132 KB
+0.18051004
+ Current memory usage: VmRSS =  11900 KB, VmSize =  17132 KB
+0.26797485
+ Current memory usage: VmRSS =  11816 KB, VmSize =  17132 KB
+0.26623988
+ Current memory usage: VmRSS =  11712 KB, VmSize =  17132 KB
+0.22718287
+ Current memory usage: VmRSS =  11712 KB, VmSize =  17132 KB
+0.30867505
+ Current memory usage: VmRSS =  11724 KB, VmSize =  17132 KB
+0.23144794
+ Current memory usage: VmRSS =  11720 KB, VmSize =  17132 KB
+0.27048206
+ Current memory usage: VmRSS =  11820 KB, VmSize =  17132 KB
+0.40033317
+ Current memory usage: VmRSS =  11916 KB, VmSize =  17132 KB
+0.32436800
+ Current memory usage: VmRSS =  11704 KB, VmSize =  17132 KB
+0.32985401
+ Current memory usage: VmRSS =  11824 KB, VmSize =  17132 KB
+0.18279409
+ Current memory usage: VmRSS =  11648 KB, VmSize =  17132 KB
+0.17744207
+ Current memory usage: VmRSS =  11808 KB, VmSize =  17132 KB
+0.34319901
+ Current memory usage: VmRSS =  11820 KB, VmSize =  17132 KB
+0.24573588
+ Current memory usage: VmRSS =  11708 KB, VmSize =  17132 KB
+0.22511816
+ Current memory usage: VmRSS =  11768 KB, VmSize =  17132 KB
+0.19002199
+ Current memory usage: VmRSS =  11804 KB, VmSize =  17132 KB
+0.52295303
+ Current memory usage: VmRSS =  11728 KB, VmSize =  17132 KB
+0.31181502
+ Current memory usage: VmRSS =  11792 KB, VmSize =  17132 KB
+0.24017787
+ Current memory usage: VmRSS =  11712 KB, VmSize =  17132 KB
+0.18984008
+ Current memory usage: VmRSS =  11860 KB, VmSize =  17132 KB
+0.24310088
+ Current memory usage: VmRSS =  11780 KB, VmSize =  17132 KB
+0.38117123
+ Current memory usage: VmRSS =  11828 KB, VmSize =  17132 KB
+0.23596001
+ Current memory usage: VmRSS =  11780 KB, VmSize =  17132 KB
+0.23691702
+ Current memory usage: VmRSS =  11924 KB, VmSize =  17132 KB
+0.20986700
+ Current memory usage: VmRSS =  11976 KB, VmSize =  17132 KB
+0.26601911
+ Current memory usage: VmRSS =  11804 KB, VmSize =  17132 KB
+0.29547691
+ Current memory usage: VmRSS =  11828 KB, VmSize =  17132 KB
+0.27623105
+ Current memory usage: VmRSS =  11748 KB, VmSize =  17132 KB
+0.31495309
+ Current memory usage: VmRSS =  11924 KB, VmSize =  17132 KB
+0.30494213
+ Current memory usage: VmRSS =  11816 KB, VmSize =  17132 KB

@@ -1,0 +1,10 @@
+[mpiexec@kali] Sending Ctrl-C to processes as requested
+[mpiexec@kali] Press Ctrl-C again to force abort
+[mpiexec@kali] Sending Ctrl-C to processes as requested
+[mpiexec@kali] Press Ctrl-C again to force abort
+[mpiexec@kali] Sending Ctrl-C to processes as requested
+[mpiexec@kali] Press Ctrl-C again to force abort
+[mpiexec@kali] Sending Ctrl-C to processes as requested
+[mpiexec@kali] Press Ctrl-C again to force abort
+[mpiexec@kali] Sending Ctrl-C to processes as requested
+[mpiexec@kali] Press Ctrl-C again to force abort

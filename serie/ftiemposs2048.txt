@@ -1,0 +1,22 @@
+332.39640689
+ Current memory usage: VmRSS = 108536 KB, VmSize = 113900 KB
+382.49926686
+ Current memory usage: VmRSS = 108476 KB, VmSize = 113900 KB
+401.88157296
+ Current memory usage: VmRSS = 109156 KB, VmSize = 113900 KB
+413.04180598
+ Current memory usage: VmRSS = 109612 KB, VmSize = 113900 KB
+387.02966499
+ Current memory usage: VmRSS = 108520 KB, VmSize = 113900 KB
+363.86151505
+ Current memory usage: VmRSS = 108508 KB, VmSize = 113900 KB
+322.30240488
+ Current memory usage: VmRSS = 108572 KB, VmSize = 113900 KB
+331.09358096
+ Current memory usage: VmRSS = 108788 KB, VmSize = 113900 KB
+354.07198906
+ Current memory usage: VmRSS = 108524 KB, VmSize = 113900 KB
+495.39505100
+ Current memory usage: VmRSS = 108828 KB, VmSize = 113900 KB
+379.51420617
+ Current memory usage: VmRSS = 108536 KB, VmSize = 113900 KB
